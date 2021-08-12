@@ -7,4 +7,4 @@ Using the following packages:
 - commander: Make node.js command-line interface easy
 - path: Node.js path module
 
-You can download via npm
+![Donut Cli](https://github.com/makyfj/DonutCli/blob/master/DonutCli.png?raw=true)
