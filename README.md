@@ -6,3 +6,5 @@ Using the following packages:
 - chalk: Terminal string styling
 - commander: Make node.js command-line interface easy
 - path: Node.js path module
+
+You can download via npm
