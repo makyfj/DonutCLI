@@ -8,3 +8,10 @@ Using the following packages:
 - path: Node.js path module
 
 ![Donut Cli](https://github.com/makyfj/DonutCli/blob/master/DonutCli.png?raw=true)
+ 
+You can download the official package here:
+- https://www.npmjs.com/package/donutcli
+- To install it globally: npm i -g donutcli
+- Install dependecies: npm i
+- Build it: npm run build
+- Run it: npm start
